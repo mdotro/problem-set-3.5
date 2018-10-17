@@ -1,7 +1,21 @@
 * {
-  background-color: rgb(51, 204, 255);
+  background-color: rgb(102, 153, 255);
 }
 
-{
+p {
+  font-family: "Merriweather";
+  font-size: 16px;
+  font-style: normal;
+}
 
+h3 {
+  font-family: "Merriweather";
+  font-size: 28px;
+  font-style: normal;
+}
+
+h5 {
+  font-family: "Merriweather";
+  font-size: 22px;
+  font-style: normal;
 }
